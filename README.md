@@ -1,7 +1,7 @@
 # AstroMusic : Distube Bot
 Listening to High-Quality Music from Various Singers
 
-### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://media.discordapp.net/attachments/965806495109369926/1109147334199214171/png_2dev_copy.png?width=409&height=409" alt="AstroMusic Illustration"> 
+### Created by Developer Tools <img style="width: 5%; float: left; margin-right: 20px;" src="https://cdn.discordapp.com/attachments/965806495109369926/1109147334199214171/png_2dev_copy.png?ex=66101ef3&is=65fda9f3&hm=f15e0f117de652222626b28ecd5b2c6ed2771bf4ea864b5f093c1e5c168dbafa&" alt="AstroMusic Illustration">
 
 
 ## Supports Slash Commands & Prefix
